@@ -17,7 +17,8 @@ TeamApp es una aplicación Android simple desarrollada en Kotlin utilizando Jetp
 A continuación, se muestran capturas de pantalla de la aplicación ejecutándose en el emulador de Android:
 
 ![Pantalla de Lista de Equipo](docs/screenshots/team_list_screen.png)
-*Pie de foto: La pantalla principal mostrando la lista de miembros del equipo en un LazyColumn.*
+
+*La pantalla principal mostrando la lista de miembros del equipo en un LazyColumn.*
 
 ## Flujo de Trabajo y Proceso en GitHub
 Seguimos un flujo de trabajo estructurado con Git para garantizar una colaboración limpia y ordenada:
@@ -50,7 +51,7 @@ Seguimos un flujo de trabajo estructurado con Git para garantizar una colaboraci
 ## Cómo Ejecutar
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-repositorio-de-equipo/teamapp.git
+   git clone https://github.com/PabloVS044/uvg-2025-lab4-team-app.git
    ```
 2. Abre el proyecto en Android Studio.
 3. Sincroniza el proyecto con Gradle.
