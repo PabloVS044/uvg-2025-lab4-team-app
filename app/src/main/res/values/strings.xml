@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">TeamApp</string>
+    <string name="app_name">Lab4</string>
+    <string name="member_1_name">Pablo Vásquez</string>
+    <string name="member_2_name">David López</string>
+    <string name="member_3_name">Jonathan Tubac</string>
+    <string name="member_1_description">Encargado de crear la data class</string>
+    <string name="member_2_description">Encargado del repositorio falso</string>
+    <string name="member_3_description">Encargado de la lista en Compose</string>
+
+
 </resources>
